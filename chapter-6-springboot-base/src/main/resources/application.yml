@@ -1,0 +1,6 @@
+my2:
+    user:
+        name: houzm-yml
+server:
+    port: 9090
+#debug: true
